@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+body{
+    text-align: center;
+    padding: 16px;
+}
+
+h1{
+    margin-bottom: 16px;
+    font-size: 32px;
+    font-style: italic;
+
+}
+
+h2{
+    margin-bottom: 16px;
+    font-size: 16px;
+
+
+}
+
+p{
+   font-weight: bold; 
+}
+
+img{
+    width: 150px;
+    border: 1px solid black;
+    border-radius: 50%;
+
+}
